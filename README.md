@@ -21,4 +21,4 @@ And if it didn't, have fun :)</p>
 
 <h1>MF366's Minigame Collection</h1>
 <p>As said, this was made as a part of MF366's Minigame collection.
-<br>Make sure to check it out <a href="https://github.com/MF366-Coding/The-Ultimate-Minigame-Collection">here</a>, there are cool minigame there.</p>
+<br>Make sure to check it out <a href="https://github.com/MF366-Coding/The-Ultimate-Minigame-Collection">here</a>, there are cool minigames there.</p>
