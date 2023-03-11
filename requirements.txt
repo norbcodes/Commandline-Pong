@@ -1,0 +1,6 @@
+sys
+keyboard
+math
+random
+time
+# most should come with the Python STD though.
