@@ -6,7 +6,8 @@
 Now let's get started :)
 </p>
 <h3>1. Download the repo</h3>
-<p>Click on "Code" and click "Download ZIP"<br>This will download the entire repository.
+<p>Click on "Code" and click "Download ZIP"<br>This will download the entire repository.<br>
+Or get the latest release of this repo <a href="https://github.com/norbcodes/Commandline-Pong/releases">here</a>.
 </p>
 <h3>2. Install necessary modules</h3>
 You can do this by doing <code>pip install -r requirements.txt</code><br>
