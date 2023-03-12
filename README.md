@@ -1,6 +1,6 @@
 <h1> Pong in the CMD minigame.</h1>
 <p>This was made as a minigame for <a href="https://github.com/MF366-Coding/The-Ultimate-Minigame-Collection">MF366's Minigame Collection.</a></p> 
-<p>Released as standalone for all to play :)</p>
+<p>Released as standalone for all to play :)<br>Please note that this may not work on Linux.</p>
 <h1>How to play?</h1>
 <p>Before everything, you need Python 3.10 which you can download <a href="https://www.python.org/downloads/">here.</a>
 Now let's get started :)
