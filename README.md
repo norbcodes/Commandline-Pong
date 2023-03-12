@@ -17,7 +17,7 @@ The requirements.txt already comes with the repo.
 If you have downloaded everything successfully, the game shouldn't crash on boot.<br>
 And if it didn't, have fun :)</p>
 <h3>Quick note for Linux users</h3>
-<p>Note that for Linux users, you'll need to run the script as <code>sudo</code>, due to the Python module <code>keyboard</code> requiring it.</p>
+<p>Note that for Linux users, you'll need to run the script with <code>sudo python3 PongEngine.py</code>, due to the Python module <code>keyboard</code> requiring <code>sudo</code> to run.</p>
 
 <h1>MF366's Minigame Collection</h1>
 <p>As said, this was made as a part of MF366's Minigame collection.
