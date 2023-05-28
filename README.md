@@ -3,7 +3,8 @@
 <p>Released as standalone for all to play :)</p>
 <h1>How to play?</h1>
 <p>Before everything, you need Python 3.10 which you can download <a href="https://www.python.org/downloads/">here.</a>
-Now let's get started :)
+Now let's get started :)<br>
+Also, this app is not quite running on Linux right now, so please be patient until this is fixed.
 </p>
 <h3>1. Download the repo</h3>
 <p>Click on "Code" and click "Download ZIP"<br>This will download the entire repository.<br>
