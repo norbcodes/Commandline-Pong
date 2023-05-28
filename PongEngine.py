@@ -381,4 +381,5 @@ def RunPong():
             break
     sys.exit()
 
-RunPong()
+if __name__ == '__main__':
+    RunPong()
