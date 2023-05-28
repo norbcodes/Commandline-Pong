@@ -380,3 +380,5 @@ def RunPong():
         if keyboard.is_pressed('3'):
             break
     sys.exit()
+
+RunPong()
